@@ -1,16 +1,14 @@
-# kickstart.nvim
-
-## Introduction
-
-A starting point for Neovim that is:
-
-* Small
-* Single-file
-* Completely Documented
-
-**NOT** a Neovim distribution, but instead a starting point for your configuration.
-
+# Woodys Kickstart.nvim
 ## Installation
+
+```sh
+jj git clone https://github.com/nvim-lua/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+```
+
+# Features
+## Swift
+- 
+
 
 ### Install Neovim
 
